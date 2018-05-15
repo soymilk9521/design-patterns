@@ -3,7 +3,7 @@ package com.learning.demo;
 import com.learning.design.pattern.prototype.Shape;
 import com.learning.design.pattern.prototype.ShapeCache;
 
-public class PrototypePatternDemo {
+public class _05_creational_PrototypePatternDemo {
 
 	public static void main(String[] args) {
 		ShapeCache.loadCache();

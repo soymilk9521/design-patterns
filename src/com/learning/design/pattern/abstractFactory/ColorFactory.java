@@ -1,7 +1,5 @@
 package com.learning.design.pattern.abstractFactory;
 
-import com.learning.design.pattern.factory.Shape;
-
 public class ColorFactory extends AbstractFactory {
 
 	@Override

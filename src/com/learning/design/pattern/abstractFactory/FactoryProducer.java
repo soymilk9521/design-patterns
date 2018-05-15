@@ -1,7 +1,5 @@
 package com.learning.design.pattern.abstractFactory;
 
-import com.learning.design.pattern.factory.ShapeFactory;
-
 public class FactoryProducer {
 	public static AbstractFactory getFactory(String choice) {
 

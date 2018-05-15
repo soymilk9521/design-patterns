@@ -3,7 +3,7 @@ package com.learning.demo;
 import com.learning.design.pattern.factory.Shape;
 import com.learning.design.pattern.factory.ShapeFactory;
 
-public class FactoryPatternDemo {
+public class _01_creational_FactoryPatternDemo {
 
 	public static void main(String[] args) {
 		ShapeFactory shapeFactory = new ShapeFactory();

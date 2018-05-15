@@ -3,7 +3,7 @@ package com.learning.demo;
 import com.learning.design.pattern.builder.Meal;
 import com.learning.design.pattern.builder.MealBuilder;
 
-public class BuilderPatternDemo {
+public class _04_creational_BuilderPatternDemo {
 	public static void main(String[] args) {
 		MealBuilder mealBuilder = new MealBuilder();
 

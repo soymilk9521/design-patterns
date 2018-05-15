@@ -2,7 +2,7 @@ package com.learning.demo;
 
 import com.learning.design.pattern.singleton.SingleObject;
 
-public class SingletonPatternDemo {
+public class _03_creational_SingletonPatternDemo {
 
 	public static void main(String[] args) {
 		// illegal construct

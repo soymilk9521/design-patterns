@@ -3,9 +3,9 @@ package com.learning.demo;
 import com.learning.design.pattern.abstractFactory.AbstractFactory;
 import com.learning.design.pattern.abstractFactory.Color;
 import com.learning.design.pattern.abstractFactory.FactoryProducer;
-import com.learning.design.pattern.factory.Shape;
+import com.learning.design.pattern.abstractFactory.Shape;
 
-public class AbstractFactoryPatternDemo {
+public class _02_creational_AbstractFactoryPatternDemo {
 
 	public static void main(String[] args) {
 		// get shape factory
